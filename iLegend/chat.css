@@ -1,0 +1,148 @@
+body {
+ margin: 0;
+ 
+}
+.container{
+  display: flex;
+  justify-content: center;
+  background-image: url('motorcycle.jpg');
+  background-position: right;
+  height: 755px;
+}
+.frmholder{
+  background-color: #FFFFFF;
+  color: white;
+  width: 500px;
+  height: 650px;
+  border-radius: 15px;
+  margin-top: 60px;
+}
+.frmheader{
+  background-color: #2E6E8D;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  height: 150px;
+  margin-top: -25px;
+  border-radius: 15px 15px 0 0 ;
+}
+.frmheader #pp {
+  padding: 50px;
+}
+.frmholder form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #0B2647;
+}
+.frmholder button {
+  background-color: #65B37B;
+  border: none;
+  border-radius: 50px;
+  width: 200px;
+  height: 60px;
+  margin-top: 40px;
+}
+.frmholder a{
+  color: #0B2647;
+}
+.frmholder #btn2{
+  background-color: #A8943D;
+  border: none;
+  border-radius: 50px;
+  width: 400px;
+  height: 60px;
+  margin-top: 20px;
+}
+#chatbox {
+    text-align:left;
+    padding:10px;
+    background:#FFFFFF;
+    height:400px;
+    width:475px;
+    color: black;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+     
+}
+#balancediv{
+  color: black;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#chatbox button{
+  background-color: #65B37B;
+  border: none;
+  border-radius: 50px;
+  width: 400px;
+  height: 200px;
+  margin-top: 20px;
+}
+#chatbox2 {
+    text-align:left;
+    padding:10px;
+    background:#FFFFFF;
+    height:400px;
+    width:475px;
+    color: black;
+    display: flex;
+  flex-direction: row;
+     
+}
+#chatbox2 button{
+  background-color: #65B37B;
+  border: none;
+  border-radius: 50px;
+  width: 70px;
+  height: 20px;
+  margin-top: 20px;
+}
+#chatbox #buttonsend{
+  background-color: #65B37B;
+  border: none;
+  border-radius: 50px;
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+}
+.frmheader2{
+  background-color: #2E6E8D;
+  text-align: left;
+  font-weight: bold;
+  font-size: 15px;
+  height: 100px;
+  padding: 10px;
+  margin-top: -25px;
+  border-radius: 15px 15px 0 0 
+}
+.kiwandeki{
+ text-align: center;
+}
+.logout {  float:right;
+ }
+.welcome { float:left; }
+.logout a {
+    color:#FFFFFF;
+    text-decoration:none; }
+  
+.logout   a:hover { color: #E34B35; }
+#usermsg {
+    width:360px;
+    height: 25px;
+    border:2px solid #041121;
+     }
+#submitmsg{
+  background-color: #65B37B;
+  border: none;
+  border-radius: 50px;
+  width: 100px;
+  height: 30px;
+  margin-top: 40px; 
+}
+.frmholder #msgsub form{
+  display: inline;
+  flex-direction: row;
+  padding: 10px;
+}
