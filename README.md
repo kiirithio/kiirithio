@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kiirithio
-- 👀 I’m interested in Javascript
+- 👋 Hi, I’m George Kiirithio Waweru
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me kiirithiogeorge101@gmail.com
 
 <!---
