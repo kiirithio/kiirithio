@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George Kiirithio Waweru
-- 👀 I’m interested in web development
+- 👀 I’m interested in System Development majoring in ERP
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on System Development projects
 - 📫 How to reach me kiirithiogeorge101@gmail.com
 
 <!---
